@@ -53,7 +53,7 @@ namespace CSII_Element
                 {
                     rec.Pressure.Add(Convert.ToDouble(reader[i]));
                 }*/
-                
+                // 123
                 elements.FromNode = Convert.ToInt32(reader[4]);
                 elements.ToNode = Convert.ToInt32(reader[5]);
                 if (!String.IsNullOrEmpty(reader[12].ToString()))
