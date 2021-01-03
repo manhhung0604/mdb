@@ -1,0 +1,10 @@
+C:\Users\manhh\source\repos\CSII Element\obj\Debug\CSII Element.csprojAssemblyReference.cache
+C:\Users\manhh\source\repos\CSII Element\obj\Debug\CSII_Element.Form1.resources
+C:\Users\manhh\source\repos\CSII Element\obj\Debug\CSII_Element.Properties.Resources.resources
+C:\Users\manhh\source\repos\CSII Element\obj\Debug\CSII Element.csproj.GenerateResource.cache
+C:\Users\manhh\source\repos\CSII Element\obj\Debug\CSII Element.csproj.CoreCompileInputs.cache
+C:\Users\manhh\source\repos\CSII Element\bin\Debug\CSII Element.exe.config
+C:\Users\manhh\source\repos\CSII Element\bin\Debug\CSII Element.exe
+C:\Users\manhh\source\repos\CSII Element\bin\Debug\CSII Element.pdb
+C:\Users\manhh\source\repos\CSII Element\obj\Debug\CSII Element.exe
+C:\Users\manhh\source\repos\CSII Element\obj\Debug\CSII Element.pdb
